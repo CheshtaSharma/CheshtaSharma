@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Cheshta Sharma
 
 <p align="center">
-  <b>AI & ML Enthusiast • Python Developer • CSE (AI) Student</b><br>
+  <b>AI & ML Enthusiast • Python Developer • B.Tech CSE (AI) Student</b><br>
   Building practical AI applications that solve real-world problems.
 </p>
 
@@ -10,51 +10,43 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science Engineering (Artificial Intelligence) student
-- 💼 AI/ML Intern passionate about building practical AI applications
-- 🧠 Interested in Generative AI, RAG, Machine Learning and NLP
-- 🐍 Currently strengthening Python, DSA and Software Engineering fundamentals
-- 🌱 Always learning by building real-world projects
+- 💼 Currently working as an AI/ML Intern, gaining hands-on experience in building AI applications
+- 🤖 Passionate about Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), and NLP
+- 🐍 Strengthening my Python, Data Structures & Algorithms, and Software Engineering fundamentals
+- 🌱 I enjoy learning by building projects that solve practical, real-world problems
 
 ---
 
-## 💡 What I'm Currently Working On
+## 💼 Experience
 
-* 🤖 Building AI-powered applications
-* 🧠 Learning advanced Generative AI concepts
-* 📚 Strengthening Data Structures & Algorithms
-* ⚡ Improving Python development skills
-* 🏗 Developing full-stack AI solutions
+### AI/ML Intern
+
+- Developing AI-powered applications using Python
+- Working with Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
+- Building backend applications with Flask
+- Exploring real-world AI workflows and deployment practices
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
-* Python
-* C++
-* SQL
+`Python` `C++` `SQL`
 
-### Artificial Intelligence & Machine Learning
+### 🤖 AI & Machine Learning
 
-* Machine Learning
-* Generative AI
-* Retrieval-Augmented Generation (RAG)
-* Natural Language Processing (NLP)
-* Scikit-learn
-* Pandas
-* NumPy
+`Machine Learning` `Generative AI` `RAG` `NLP`
 
-### Frameworks & Libraries
+`Scikit-Learn` `Pandas` `NumPy`
 
-* Flask
-* Streamlit
+### 🌐 Frameworks
 
-### Developer Tools
+`Flask` `Streamlit`
 
-* Git
-* GitHub
-* VS Code
+### ⚙️ Tools
+
+`Git` `GitHub` `VS Code`
 
 ---
 
@@ -64,94 +56,68 @@
 
 **Transparent Retrieval-Augmented Generation (RAG) Application**
 
-A document-based AI assistant that retrieves relevant information from uploaded documents and generates context-aware responses while maintaining transparency in the retrieval process.
+A document-based AI assistant that retrieves relevant information from uploaded documents and generates context-aware responses with transparent source retrieval.
 
-**Highlights**
-
-* RAG Pipeline
-* LLM Integration
-* Document Retrieval
-* Explainable Responses
-* Modern Web Interface
+**Tech Used:** Python • Flask • RAG • LLM
 
 ---
 
 ## 📄 Generative AI Resume Evaluator
 
-An AI-powered resume analysis tool that compares resumes against job descriptions and provides ATS-style feedback along with actionable improvement suggestions.
+An AI-powered resume analyzer that compares resumes with job descriptions and provides ATS-style feedback along with actionable improvement suggestions.
 
-**Highlights**
-
-* Resume Parsing
-* Job Description Matching
-* ATS Score Analysis
-* AI-Powered Suggestions
-* Streamlit Interface
+**Tech Used:** Python • Streamlit • Generative AI
 
 ---
 
 ## 🎬 Movie Recommender System
 
-A content-based recommendation engine that suggests movies based on user preferences using machine learning techniques.
+A content-based recommendation system that suggests similar movies using machine learning techniques.
 
-**Highlights**
-
-* Content-Based Filtering
-* Similarity Computation
-* Recommendation Engine
-* Clean User Interface
+**Tech Used:** Python • Scikit-Learn • Pandas
 
 ---
 
 ## 📊 Sorting Visualizer
 
-An educational visualization tool that demonstrates how classic sorting algorithms work through animated execution.
+An interactive visualization tool for understanding classic sorting algorithms through animations.
 
 **Algorithms Included**
 
-* Bubble Sort
-* Selection Sort
-* Insertion Sort
-* Merge Sort
-* Quick Sort
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
 
 ---
 
 ## 🌱 Currently Learning
 
-* Advanced Python
-* Data Structures & Algorithms
-* Large Language Models (LLMs)
-* Prompt Engineering
-* Vector Databases
-* AI Application Development
+- Advanced Python
+- Data Structures & Algorithms
+- Large Language Models (LLMs)
+- Vector Databases
+- AI Application Development
 
 ---
 
 ## 🎯 Areas of Interest
 
-* Artificial Intelligence
-* Machine Learning
-* Generative AI
-* Retrieval-Augmented Generation
-* Natural Language Processing
-* Intelligent Automation
-* Software Development
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Retrieval-Augmented Generation
+- Natural Language Processing
+- Intelligent Automation
+- Backend Development
 
 ---
 
-## 📈 My Development Philosophy
+## 📫 Let's Connect
 
-> *"The best way to learn technology is by building meaningful projects that solve real problems."*
+I'm always excited to learn, collaborate, and build meaningful AI solutions.
 
-I enjoy exploring new technologies, understanding how they work under the hood, and applying them to create practical, user-focused solutions.
+Feel free to explore my repositories and connect with me!
 
----
-
-## 🤝 Let's Connect
-
-I'm always excited to learn, collaborate, and discuss technology.
-
-If you like my work, feel free to explore my repositories and connect with me!
-
-⭐ **Thanks for visiting my GitHub profile!**
+⭐ Thanks for visiting my GitHub profile!
