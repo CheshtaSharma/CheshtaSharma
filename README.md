@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-🎓 I'm a **third-year B.Tech Computer Science Engineering (Artificial Intelligence)** student with a passion for transforming ideas into intelligent software.
-
-I enjoy building projects that combine **Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), and Python** to solve practical problems. I believe the best way to learn is by building, which is why I continuously work on hands-on projects and improve my development skills.
-
-Currently, I'm expanding my knowledge through an **AI/ML internship** while strengthening my foundations in **Python, Data Structures & Algorithms, and software development**.
+- 🎓 B.Tech Computer Science Engineering (Artificial Intelligence) student
+- 💼 AI/ML Intern passionate about building practical AI applications
+- 🧠 Interested in Generative AI, RAG, Machine Learning and NLP
+- 🐍 Currently strengthening Python, DSA and Software Engineering fundamentals
+- 🌱 Always learning by building real-world projects
 
 ---
 
